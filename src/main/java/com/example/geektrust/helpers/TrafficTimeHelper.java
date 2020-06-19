@@ -1,9 +1,9 @@
 package com.example.geektrust.helpers;
 
-import com.example.geektrust.models.VehicleOrbitType;
-import com.example.geektrust.models.VehicleType;
-import com.example.geektrust.orbit.Orbit;
-import com.example.geektrust.vehicle.Vehicle;
+import com.example.geektrust.models.orbit.Orbit;
+import com.example.geektrust.models.vehicle.Vehicle;
+import com.example.geektrust.models.vehicle.VehicleOrbitType;
+import com.example.geektrust.models.vehicle.VehicleType;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -14,7 +14,6 @@ public class TrafficTimeHelper {
   public String getBestTimeData(HashMap<VehicleOrbitType, Double> vehicleOrbitTimeMap) {
     Double minTime = 0.0;
     int initialPrecedence = 0;
-    VehicleOrbitType output;
     String data = "Something went wrong";
     for (Map.Entry<VehicleOrbitType, Double> vehicleOrbitTypeIntegerEntry : vehicleOrbitTimeMap
         .entrySet()) {

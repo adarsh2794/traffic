@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 
 public class ReadFile {
 
-  public String readFileAsString(String fileName)throws Exception {
+  public String readFileAsString(String fileName) throws Exception {
     String data = "";
     try {
       data = new String(Files.readAllBytes(Paths.get(fileName)));

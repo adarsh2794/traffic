@@ -1,40 +1,30 @@
+com/example/geektrust/models/vehicle/VehicleType.java
+ com.example.geektrust.models.vehicle.VehicleType
 com/example/geektrust/PossiblePath.java
  com.example.geektrust.PossiblePath
-com/example/geektrust/vehicle/Vehicle.java
- com.example.geektrust.vehicle.Vehicle
-com/example/geektrust/models/Vehicles.java
- com.example.geektrust.models.Vehicles
-com/example/geektrust/models/InputData.java
- com.example.geektrust.models.InputData
+com/example/geektrust/models/orbit/Orbit.java
+ com.example.geektrust.models.orbit.Orbit
 com/example/geektrust/utils/ReadFile.java
  com.example.geektrust.utils.ReadFile
-com/example/geektrust/vehicle/TukTuk.java
- com.example.geektrust.vehicle.TukTuk
-com/example/geektrust/models/WeatherType.java
- com.example.geektrust.models.WeatherType
-com/example/geektrust/orbit/Orbit.java
- com.example.geektrust.orbit.Orbit
-com/example/geektrust/orbit/Orbit2.java
- com.example.geektrust.orbit.Orbit2
-com/example/geektrust/orbit/Orbit1.java
- com.example.geektrust.orbit.Orbit1
-com/example/geektrust/vehicle/Bike.java
- com.example.geektrust.vehicle.Bike
-com/example/geektrust/vehicle/SuperCar.java
- com.example.geektrust.vehicle.SuperCar
-com/example/geektrust/models/OutputData.java
- com.example.geektrust.models.OutputData
-com/example/geektrust/models/Weather.java
- com.example.geektrust.models.Weather
+com/example/geektrust/models/orbit/OrbitType.java
+ com.example.geektrust.models.orbit.OrbitType
+com/example/geektrust/models/vehicle/VehicleConstants.java
+ com.example.geektrust.models.vehicle.VehicleConstants
+com/example/geektrust/models/Input.java
+ com.example.geektrust.models.Input
+com/example/geektrust/models/weather/Weather.java
+ com.example.geektrust.models.weather.Weather
+com/example/geektrust/models/orbit/OrbitConstants.java
+ com.example.geektrust.models.orbit.OrbitConstants
 com/example/geektrust/helpers/TrafficTimeHelper.java
  com.example.geektrust.helpers.TrafficTimeHelper
-com/example/geektrust/models/VehicleType.java
- com.example.geektrust.models.VehicleType
+com/example/geektrust/models/weather/WeatherType.java
+ com.example.geektrust.models.weather.WeatherType
+com/example/geektrust/models/vehicle/Vehicle.java
+ com.example.geektrust.models.vehicle.Vehicle
 com/example/geektrust/utils/ProcessInput.java
  com.example.geektrust.utils.ProcessInput
 com/example/geektrust/GeekTrustApplication.java
  com.example.geektrust.GeekTrustApplication
-com/example/geektrust/models/VehicleOrbitType.java
- com.example.geektrust.models.VehicleOrbitType
-com/example/geektrust/models/OrbitType.java
- com.example.geektrust.models.OrbitType
+com/example/geektrust/models/vehicle/VehicleOrbitType.java
+ com.example.geektrust.models.vehicle.VehicleOrbitType
